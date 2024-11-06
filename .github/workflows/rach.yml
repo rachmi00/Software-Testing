@@ -1,5 +1,4 @@
-name: rach
-
+name: CI
 on: [push, pull_request]
 
 jobs:
